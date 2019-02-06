@@ -188,7 +188,7 @@ endorsed, ordered, and validated.
 Dynamic membership
 ------------------
 
-he fabric will allow for endorsers and committers to come and go based
+The fabric will allow for endorsers and committers to come and go based
 on membership, and the blockchain network will continue to operate.
 Dynamic membership is critical when businesses grow and members need to
 be added or removed for various reasons.
@@ -236,7 +236,7 @@ policies to determine if a new configuration block can be created.
 Endorsement System Chaincode
 ----------------------------
 
-Endorsement System Chaincode (ESCC) is a system chaincode that andles
+Endorsement System Chaincode (ESCC) is a system chaincode that handles
 the endorsement policy for specific pieces of chaincode deployed on a
 network, and defines the necessary parameters (percentage or combination
 of signatures from endorsing peers) for a transaction proposal to
